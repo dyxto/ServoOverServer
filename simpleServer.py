@@ -13,8 +13,8 @@ ledState = 'LED State Unknown'
 
 button = Pin("LED", Pin.IN)
 
-ssid = '55775573656E7061695844'
-password = 'uwu-senp@!-xd3'
+ssid = 'SSID NAME'
+password = 'SSID PASSWORD'
 
 '''
 >>> https://core-electronics.com.au/guides/getting-started-with-servos-examples-with-raspberry-pi-pico/
